@@ -1,0 +1,12 @@
+{
+  "name": "Pronces",
+  "version": "1.0.0",
+  "description": "Input the phrase !pong and the bot will answer with Pong!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Princeton Abdulsalam",
+  "license": "",
+  "dependencies": {}
+}
